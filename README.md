@@ -1,7 +1,7 @@
 <div style="display: inline-block" align="center"><br/>
   <a href="https://www.flowcode.com/page/sdrariane"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=sdrariane&theme=dark&show_icons=true" />
-  <img heigth="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdrariane&layout=compact&theme=dark" />
+  <img heigth="180em" width="415em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdrariane&layout=compact&theme=dark" />
 </div>
 
 <div align="center"><br/>
