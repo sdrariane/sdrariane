@@ -17,8 +17,8 @@
     <img align="center" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="/">
-    <img align="center" target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://sdrariane.github.io/">
+    <img align="center" target="_blank" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
 
